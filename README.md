@@ -8,11 +8,11 @@
   <img align="left" alt="Srikanth's Instagram" width="27px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" style="max-width: 100%;">
 </a>
 
-<a href="https://www.linkedin.com/in/srikanth-sharma-15602a119/" rel="nofollow">
+<a href="https://www.linkedin.com/in/sri-ln/" rel="nofollow">
   <img align="left" alt="Srikanth's LinkedIN" width="27px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" style="max-width: 100%;">
 </a>
 
-<p align="left"> <img width="145px" src="https://komarev.com/ghpvc/?username=srikanth-lsharma&label=Profile%20views&color=229fee&style=flat" alt="srikanth-lsharma" /> </p>
+<p align="left"> <img width="145px" src="https://komarev.com/ghpvc/?username=Sri-Ln&label=Profile%20views&color=229fee&style=flat" alt="Sri-Ln" /> </p>
 
-<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Srikanth-LSharma&line_height=20&show_icons=true)-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srikanth-lsharma&layout=compact&card_width=295)
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sri-Ln&line_height=20&show_icons=true)-->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sri-Ln&layout=compact&card_width=295)
