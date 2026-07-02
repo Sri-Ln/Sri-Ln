@@ -2,7 +2,9 @@
 
 <h2 align="center">Srikanth Lakshminarayan</h2>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&size=28&duration=4000&pause=100&color=d4b15a&background=000000000&center=true&width=1035&height=61&lines=Software+Engineer+%7C+Distributed+Systems+%26+Data+Infrastructure;Kafka+%7C+AWS+%7C+High-throughput+Systems;Experience+Building+Fixed+Income+Infrastructure)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&size=28&duration=4000&pause=100&color=d4b15a&background=000000000&center=true&width=1035&height=61&lines=Software+Engineer+%7C+Distributed+Systems+%26+Data+Infrastructure;Kafka+%7C+AWS+%7C+High-throughput+Systems;Experienced+in+Building+Fixed+Income+Infrastructure)
+
+At Morgan Stanley's asset management arm, I built the normalization pipeline using Kafka, DynamoDB, and an  S3 export/archive job on the service that turns raw broker offers (RFQs and IOIs) into clean data for the portfolio managers making muni bond buy decisions. It ran at ~2M offers and 60K CUSIPs a day.
 
 <table width="100%">
 <tr>
