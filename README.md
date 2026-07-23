@@ -12,7 +12,7 @@ At Morgan Stanley's asset management arm, I built the normalization pipeline usi
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-gamma-drab.vercel.app?user=Sri-Ln&theme=gruvbox&border_radius=5.8&exclude_days=Sun%2CSat&border=1A2A44&background=45%2C11203A%2C0B1725&hide_border=false" height="180" /></a>
 </td>
 <td width="50%" align="right">
-<a href="https://github.com/sri-ln"><img src="https://github-stats-extended.vercel.app/api?username=Sri-Ln&show_icons=true&theme=gruvbox&bg_color=0B1725&title_color=d4b15a&icon_color=d4b15a&border_color=1A2A44&hide_border=false" height="180" /></a>
+<a href="https://github.com/sri-ln"><img src="https://github-stats-extended.vercel.app/api?username=Sri-Ln&show_icons=true&theme=gruvbox&bg_color=0B1725&title_color=d4b15a&icon_color=d4b15a&border_color=1A2A44&hide_border=false&include_all_commits=true" height="180" /></a>
 </td>
 </tr>
 </table>
