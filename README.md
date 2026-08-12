@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=11203a&height=120&section=header"/>
 
-<h2 align="center">Srikanth Lakshminarayan</h2>
+<h1 align="center">Srikanth Lakshminarayan</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Oswald&size=28&duration=4000&pause=100&color=d4b15a&background=00000000&center=true&width=1035&height=61&lines=Software+Engineer+%7C+Distributed+Systems+%26+Data+Infrastructure;Kafka+%7C+AWS+%7C+High-throughput+Systems;Experienced+in+Building+Fixed+Income+Infrastructure" />
