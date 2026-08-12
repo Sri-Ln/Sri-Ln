@@ -8,7 +8,7 @@
 
 ## ⚙️ My Work
 
-At Morgan Stanley's asset management arm, I built the normalization pipeline using Kafka, DynamoDB, and an S3 export/archive job on the service that turns raw broker offers (RFQs and IOIs) into clean data for the portfolio managers making muni bond buy decisions. It ran at ~2M offers and 60K CUSIPs a day.
+In my previous experience at Morgan Stanley's asset management team, I built the normalization pipeline to process secondary market offers through FIX for counterparties using Kafka, DynamoDB, and an S3 export/archive job. This was for a pre order execution service that turns raw broker offers (RFQs and IOIs) into queryable time partitioned data for the portfolio managers on the muni bond buy side. It ran at ~2M offers and 60K CUSIPs a day. 
 
 <br>
 
