@@ -2,9 +2,38 @@
 
 <h2 align="center">Srikanth Lakshminarayan</h2>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&size=28&duration=4000&pause=100&color=d4b15a&background=000000000&center=true&width=1035&height=61&lines=Software+Engineer+%7C+Distributed+Systems+%26+Data+Infrastructure;Kafka+%7C+AWS+%7C+High-throughput+Systems;Experienced+in+Building+Fixed+Income+Infrastructure)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Oswald&size=28&duration=4000&pause=100&color=d4b15a&background=00000000&center=true&width=1035&height=61&lines=Software+Engineer+%7C+Distributed+Systems+%26+Data+Infrastructure;Kafka+%7C+AWS+%7C+High-throughput+Systems;Experienced+in+Building+Fixed+Income+Infrastructure" />
+</p>
 
-At Morgan Stanley's asset management arm, I built the normalization pipeline using Kafka, DynamoDB, and an  S3 export/archive job on the service that turns raw broker offers (RFQs and IOIs) into clean data for the portfolio managers making muni bond buy decisions. It ran at ~2M offers and 60K CUSIPs a day.
+## ⚙️ My Work
+
+At Morgan Stanley's asset management arm, I built the normalization pipeline using Kafka, DynamoDB, and an S3 export/archive job on the service that turns raw broker offers (RFQs and IOIs) into clean data for the portfolio managers making muni bond buy decisions. It ran at ~2M offers and 60K CUSIPs a day.
+
+<br>
+
+## 📜 Certifications
+
+<div align="center">
+
+| Certification | Issuer | Status |
+|---------------|--------|--------|
+| Bloomberg Market Concepts (BMC) | Bloomberg | In Progress |
+| Fixed Income Fundamentals | Corporate Finance Institute (CFI) | Completed |
+
+</div>
+
+<br>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+![My Skills](https://skillicons.dev/icons?i=cs,java,js,kotlin,python,ts,react,materialui,spring,angular,nodejs,dotnet,html,css,kafka,postgres,mongodb,redis,aws,gcp,docker,terraform,dynamodb,postman&perline=12)
+
+</div>
+
+<br>
 
 <table width="100%">
 <tr>
