@@ -18,7 +18,7 @@ In my previous experience at Morgan Stanley's asset management team, I built the
 
 | Certification | Issuer | Status |
 |---------------|--------|--------|
-| Bloomberg Market Concepts (BMC) | Bloomberg | In Progress |
+| Bloomberg Market Concepts (BMC) | Bloomberg | Completed |
 | Fixed Income Fundamentals | Corporate Finance Institute (CFI) | Completed |
 
 </div>
