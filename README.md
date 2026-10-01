@@ -16,10 +16,10 @@ In my previous experience at Morgan Stanley's asset management team, I built the
 
 <div align="center">
 
-| Certification | Issuer | Status |
-|---------------|--------|--------|
-| Bloomberg Market Concepts (BMC) | Bloomberg | Completed |
-| Fixed Income Fundamentals | Corporate Finance Institute (CFI) | Completed |
+| Certification | Issuer |
+|---------------|--------|
+| Bloomberg Market Concepts (BMC) | Bloomberg |
+| Fixed Income Fundamentals | Corporate Finance Institute (CFI) |
 
 </div>
 
